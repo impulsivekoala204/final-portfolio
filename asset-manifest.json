@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/css/main.5873953c.css",
-    "main.js": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/js/main.dc51e3a3.js",
-    "static/js/787.1ed0c42c.chunk.js": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/js/787.1ed0c42c.chunk.js",
-    "static/media/bake.gif": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/media/bake.4371515a30f8c03cd278.gif",
-    "static/media/storyp.gif": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/media/storyp.bb8660b860db3a15dac6.gif",
-    "static/media/pivo.gif": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/media/pivo.791d976c38375bdc9890.gif",
-    "static/media/yc.gif": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/media/yc.33bcf807fdb98a5fce6f.gif",
-    "static/media/logo.svg": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/index.html",
-    "main.5873953c.css.map": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/css/main.5873953c.css.map",
-    "main.dc51e3a3.js.map": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/js/main.dc51e3a3.js.map",
-    "787.1ed0c42c.chunk.js.map": "/impulsivekoala204/final-portfolio/blob/main/src/App.js/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/impulsivekoala204/final-portfolio/static/css/main.5873953c.css",
+    "main.js": "/impulsivekoala204/final-portfolio/static/js/main.de5486c8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/impulsivekoala204/final-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bake.gif": "/impulsivekoala204/final-portfolio/static/media/bake.4371515a30f8c03cd278.gif",
+    "static/media/storyp.gif": "/impulsivekoala204/final-portfolio/static/media/storyp.bb8660b860db3a15dac6.gif",
+    "static/media/pivo.gif": "/impulsivekoala204/final-portfolio/static/media/pivo.791d976c38375bdc9890.gif",
+    "static/media/yc.gif": "/impulsivekoala204/final-portfolio/static/media/yc.33bcf807fdb98a5fce6f.gif",
+    "static/media/logo.svg": "/impulsivekoala204/final-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/impulsivekoala204/final-portfolio/index.html",
+    "main.5873953c.css.map": "/impulsivekoala204/final-portfolio/static/css/main.5873953c.css.map",
+    "main.de5486c8.js.map": "/impulsivekoala204/final-portfolio/static/js/main.de5486c8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/impulsivekoala204/final-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5873953c.css",
-    "static/js/main.dc51e3a3.js"
+    "static/js/main.de5486c8.js"
   ]
 }
