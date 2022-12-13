@@ -13,11 +13,11 @@ function App() {
           <h2 class = "name">IMPULSIVE KOALA</h2><br/>
           <h1 class = "heading">UX Researcher passionate about <span class = "btext"><i>solving problems</i></span> by understanding interfaces and<br/>examining how <span class = "btext"><i>people interact with them</i></span>.</h1><br/><br/>
           <br/><br/>
-          <a class = "check" href = ".txtone">PROJECTS</a>
+          <a class = "check" href = "#this">PROJECTS</a>
         </div>
       </div>
       <div class = "grid">
-        <div class = "tile one">
+        <div class = "tile one" id = "this">
           <div class = "image">
             <img src = {pgif} alt = "gif" width="30%" class = "gif none" />
           </div>
