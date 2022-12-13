@@ -1,0 +1,242 @@
+.name{
+  font-size: 2vh;
+  font-weight: 400;
+  letter-spacing: 0.5vw;
+  margin-left: 3vw;
+  color:white;
+}
+.heading{
+  margin-left:3vw;
+  font-weight:500;
+  font-size:4vh;
+  text-align: left;
+  line-height: 6vh;
+  color:white;
+}
+.btext{
+  color:#fff;
+}
+.grid{
+  margin-left:4vw;
+}
+.upper{
+  margin-top:0;
+  padding-bottom:20vw;
+  padding-top:10vw;
+   /* Created with https://www.css-gradient.com */
+  background: #2FB3DB;
+  background: -webkit-linear-gradient(top left, #2FB3DB, #1C3296);
+  background: -moz-linear-gradient(top left, #2FB3DB, #1C3296);
+  background: linear-gradient(to bottom right, #2FB3DB, #1C3296);
+  margin-bottom: 3vw;
+  margin-top: 1.5vw;
+  margin-left: 1.5vw;
+  margin-right: 1.5vw;
+  border-radius: 30px;
+}
+.sub-heading{
+  font-size:2vw;
+  padding-left:4.7vw;
+  font-weight: 500;
+  color:#0e72e6;
+}
+.thead{
+  font-size:2vw;
+  color:#97C3F8;
+  padding-left:8.5vw;
+  font-weight: 500;
+}
+.tthead{
+  font-size:2vw;
+  color:#12A5E4;
+  margin-left:3vw;
+  padding-left:8.5vw;
+  font-weight: 500;
+}
+.fhead{
+  font-size:2vw;
+  color:#FFA1A1;
+  padding-left:4vw;
+  font-weight: 500;
+}
+.one{
+  margin-left:3vw;
+  margin-top:10vw;
+}
+.two{
+  margin-left:3vw;
+  margin-top:5vw;
+}
+.four{
+  margin-left:6vw;
+}
+.three{
+  margin-left:3vw;
+  margin-top:5vw;
+}
+.gif{
+  padding-left:5.3vw;
+  padding-top:3.75vw;
+  width:70%;
+}
+.txtone{
+  margin-top:-19.5vw;
+  margin-left:46vw;
+  margin-bottom: 9.5vw;
+}
+.txttwo{
+  margin-left:5vw;
+}
+.sub-one{
+  font-size:1vw;
+  max-width:35vw;
+  line-height:1.4vw;
+  text-align:center;
+  padding-bottom: 1.5vw;
+  
+}
+.visit{
+  background-color:#fff;
+  color:#0e72e6;
+  font-size: 0.8vw;
+  padding-top:0.75vw;
+  padding-bottom:1vw;
+  padding-right:1vw;
+  padding-left:1vw;
+  border-bottom:0.2vw solid #0e72e6;
+  margin-left:13.5vw;
+}
+.visit:hover{
+  background-color: #0e72e6;
+  color:#fff;
+  transition-duration: 0.2s;
+}
+.vtwo{
+  background-color:#fff;
+  color:#97C3F8;
+  font-size: 0.8vw;
+  padding-top:0.75vw;
+  padding-bottom:1vw;
+  padding-right:1vw;
+  padding-left:1vw;
+  border-bottom:0.2vw solid #97C3F8;
+  margin-left:12.5vw;
+}
+.vtwo:hover{
+  background-color: #97C3F8;
+  color:#fff;
+  transition-duration: 0.2s;
+}
+.vthree{
+  background-color:#fff;
+  color:#12A5E4;
+  font-size: 0.8vw;
+  padding-top:0.75vw;
+  padding-bottom:1vw;
+  padding-right:1vw;
+  padding-left:1vw;
+  border-bottom:0.2vw solid #12A5E4;
+  margin-left:17vw;
+}
+.vthree:hover{
+  background-color: #12A5E4;
+  color:#fff;
+  transition-duration: 0.2s;
+}
+.vfour{
+  background-color:#fff;
+  color:#FFA1A1;
+  font-size: 0.8vw;
+  padding-top:0.75vw;
+  padding-bottom:1vw;
+  padding-right:1vw;
+  padding-left:1vw;
+  border-bottom:0.2vw solid #FFA1A1;
+  margin-left:12.5vw;
+}
+.vfour:hover{
+  background-color: #FFA1A1;
+  color:#fff;
+  transition-duration: 0.2s;
+}
+.check{
+  background-color:#fff;
+  color:#0e72e6;
+  font-size: 1.5vh;
+  padding-top:2vh;
+  padding-bottom:2vh;
+  padding-right:3vw;
+  padding-left:3vw;
+  margin-left:3vw;
+  letter-spacing:0.2vw;
+
+}
+.image{
+  height:21vw;
+  width:35vw;
+  margin-left:5vw;
+  background-color:#388DF2;
+}
+.itwo{
+  margin-left:46vw;
+  margin-top:-18vw;
+  background-color:#CEE2FA;
+}
+.tilel{
+  display:inline-block;
+}
+.ithree{
+  margin-left:6vw;
+  margin-top:0vh;
+  background-color:#12A5E4;
+  height:21vw;
+  width:35vw;
+  margin-left:5vw;
+}
+.ifour{
+  /* margin-top:-50vh; */
+  background-color:#FFA1A1;
+  height:21vw;
+  width:35vw;
+}
+.contact{
+  height:40vh;
+  margin-bottom: 5vw;
+  margin-top: 2.5vw;
+  margin-left: 1.5vw;
+  margin-right: 1.5vw;
+  background: #2FB3DB;
+  background: -webkit-linear-gradient(top left, #2FB3DB, #1C3296);
+  background: -moz-linear-gradient(top left, #2FB3DB, #1C3296);
+  background: linear-gradient(to bottom right, #2FB3DB, #1C3296);
+  border-radius: 30px;
+}
+.ctxt{
+  font-weight:500;
+  font-size:3vh;
+  text-align: left;
+  color:white;
+
+}
+.actxt{
+  font-weight:500;
+  font-size:2vh;
+  text-align: left;
+  color:white;
+}
+.contact-text{
+  padding-left:5vw;
+  padding-top:10vh;
+}
+ul{
+  list-style-type: none;
+  padding-left:5vw;
+}
+li{
+  font-size: 1.7vh;
+  color:#fff;
+  display:inline;
+  padding-right: 1vw;
+  text-decoration: underline;
+  text-align: left;
+}
