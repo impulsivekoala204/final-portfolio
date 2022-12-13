@@ -23,7 +23,7 @@ function App() {
           </div>
           <div class = "txtone">
             <h1 class = "sub-heading">Pivo Technologies Redesign</h1>
-            <p class = "sub-one">Africa has experienced robust macroeconomic growth over the last five years and was the second fastest growing region in 2019 with a GDP of $2.6T, a 3.7% increase on 2018. Nigeria makes up $0.5T, 50% of which comes from Small and Medium Enterprises (SME).
+            <p class = "sub-one">Africa has experienced robust macroeconomic growth over the last five years and was the second fastest growing region in 2019 with a GDP of $2.6T, a 3.7% increase on 2018. Nigeria makes up $0.5T, 50% of which comes from Small and Medium Enterprises (SME). Pivo is a startup looking to capitalize on this by making a neobanking platform for truckers.
             </p>
             <a class = "visit" href = "https://impulsivekoala204.github.io/pivo/main"><b>VISIT PROJECT</b></a><br/><br/>
           </div>
@@ -31,7 +31,7 @@ function App() {
         <div class = "tile two">
           <div class = "txttwo">
             <h1 class = "thead">React Bakery App</h1>
-            <p class = "sub-one">Africa has experienced robust macroeconomic growth over the last five years and was the second fastest growing region in 2019 with a GDP of $2.6T, a 3.7% increase on 2018. Nigeria makes up $0.5T, 50% of which comes from Small and Medium Enterprises (SMEs).
+            <p class = "sub-one">This is a bakery interface made on react to allow users to go through a shopping experience with the ability to sort items and add/remove them through an interactive cart.
             </p>
             <a class = "vtwo" href = "https://impulsivekoala204.github.io/devt-react/main"><b>VISIT PROJECT</b></a><br/>
           </div>
